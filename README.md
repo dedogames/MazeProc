@@ -3,9 +3,9 @@
 How Setup Grid Size?
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Always odd numbers and square matrix like 5x5 25x25")
-puts markdown.to_html
+
+** IMPORTANTE: Always odd numbers and square matrix like 5x5 25x25**
+
 ```
  
 Maby unreal missup some reference like animations, please check first some materials and animations on editor.
