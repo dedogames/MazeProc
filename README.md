@@ -3,9 +3,7 @@
 How Setup Grid Size?
 
 ```ruby
-
-** IMPORTANTE: Always odd numbers and square matrix like 5x5 25x25**
-
+** IMPORTANTE: Always use odd numbers and square matrix like 5x5 25x25**
 ```
  
 Maby unreal missup some reference like animations, please check first some materials and animations on editor.
